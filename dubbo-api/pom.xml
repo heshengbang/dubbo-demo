@@ -11,18 +11,4 @@
 
     <artifactId>dubbo-api</artifactId>
 
-    <properties>
-        <source.level>1.8</source.level>
-        <target.level>1.8</target.level>
-        <dubbo.version>2.7.0</dubbo.version>
-    </properties>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.apache.dubbo</groupId>
-            <artifactId>dubbo</artifactId>
-            <version>${dubbo.version}</version>
-        </dependency>
-    </dependencies>
-
 </project>
